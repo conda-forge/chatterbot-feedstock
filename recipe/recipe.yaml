@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.2.16"
+  version: "1.2.19"
 
 package:
   name: chatterbot
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/chatterbot/chatterbot-${{ version }}.tar.gz
-  sha256: 3066b6479a691fafcc3c359767c25102c3edce883c6d7fe56fd4e98085cb825a
+  sha256: 5452520bf4e3b9d026e4ba4ec1c4161a8c721a97a6f022f95a5eb601eda3319a
 
 build:
   number: 0
